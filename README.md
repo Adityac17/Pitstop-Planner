@@ -18,7 +18,7 @@ Pitstop Planner is a fast, interactive React.js task management application buil
 
 ## 📂 Project Structure
 
-
+```text
 pitstop-planner/
 ├── public/
 ├── src/
@@ -32,18 +32,18 @@ pitstop-planner/
 ├── index.html
 ├── package.json
 └── vite.config.js
+```
 
-
-
-🚀 Getting Started
+## 🚀 Getting Started
 Follow these instructions to get a local copy up and running on your machine.
+
 
 Prerequisites
 Node.js is installed on your machine.
 
 Installation
 Clone the repository:
-
+```
 Bash: 
     git clone [https://github.com/yourusername/pitstop-planner.git](https://github.com/yourusername/pitstop-planner.git)
     Navigate to the project directory:
@@ -54,11 +54,15 @@ Bash
 
     Bash
     npm install
+
+```
 Start the development server:
 
+```
 Bash
 npm run dev
 Open your browser and visit the local host link provided in your terminal (usually http://localhost:5173/).
+```
 
 👨‍💻 Author
 Aditya Sunil Chouksey
